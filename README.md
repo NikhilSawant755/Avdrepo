@@ -1,2 +1,3 @@
 # Avdrepo
-TushNik Dev team 
+this is our first proj
+TushNik Dev team Author:nikhil
